@@ -12,7 +12,7 @@
             <properties>
                 <exec.args>-Djava.library.path="C:\Users\Aurelius\opencv\build\java\x64" -classpath %classpath Main.Main</exec.args>
                 <exec.executable>java</exec.executable>
-                <Env.GOOGLE_APPLICATION_CREDENTIALS>C:\Users\Aurelius\Documents\NetBeansProjects\ControlGUI\src\main\resources\my-project-1499664889201-a725eed30a26.json</Env.GOOGLE_APPLICATION_CREDENTIALS>
+                <Env.GOOGLE_APPLICATION_CREDENTIALS>API Project JSON file</Env.GOOGLE_APPLICATION_CREDENTIALS>
             </properties>
         </action>
         <action>
